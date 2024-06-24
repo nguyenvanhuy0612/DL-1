@@ -12,4 +12,4 @@ del miniconda.exe
 
 conda create -n py310 -y python=3.10  
 conda activate py310  
-conda install -y pandas numpy matplotlib ipykernel nltk tensorflow scikit-learn
+conda install -y pandas numpy matplotlib ipykernel nltk tensorflow scikit-learn joblib
